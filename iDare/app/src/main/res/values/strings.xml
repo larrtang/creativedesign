@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iDare</string>
+    <string name="background">Background</string>
+    <string name="buttonLogin">Sign In</string>
+    <string name="buttonRegister">Make An Account</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
